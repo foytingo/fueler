@@ -1,0 +1,156 @@
+{
+    "language": "English",
+    "fuelerTitle": "Track your fuel expenses.",
+    "continueWithApple": "Continue with Apple",
+    "continueWithGoogle": "Continue with Google",
+    "or" : "or",
+    "createAccount" : "Create Account",
+    "haveAnAccount" : "Have an account already? Login",
+    "appleLoginError": "Apple Login Error",
+    "googleLoginError": "Google Login Error",
+    "ok": "Ok",
+    "fuels": "Fuels",
+    "fuelsDeleteWithSuccess": "Fuel expense was successfully deleted.",
+    "fuelsDeleteWithError": "Fuel expense could not be deleted. Try again later.",
+    "emptyFuelList": "There is no fuel expenses here.\nYou can add with 'Add Fuel' button down below.",
+    "fuelsAddWithSuccess": "Fuel expense was successfully added.",
+    "fuelsAddWithError": "Fuel expense could not be added. Try again later.",
+    "vehicleError": "Vehicle Error",
+    "noVehicleError": "You do not have a vehicle.\nPlease add a vehicle from the My Vehicles section on the left menu.",
+    "somethingWentWrong": "Something went wrong. Please try again later.",
+    "error": "Error",
+    "addFuelButtonTitle": "Add Fuel",
+    "fotgotpw": "Forgot Password",
+    "fotgotpwDesc": "You can send an email to reset your password.",
+    "validEmailAlert": "Enter valid email address",
+    "emailWasSent": "Email was sent",
+    "emailWasSentDecs": "If your account was found, you will get a password reset link.\nCheck your emails for the password reset link.",
+    "resetPwButtonTitle": "Reset Password",
+    "login": "Login",
+    "loginDesc": "You can log in with your email address.",
+    "password": "Password",
+    "enterPw": "Enter Password",
+    "loginError": "Login Error",
+    "createAccountDesc" : "You can create an account with your email address.",
+    "signUpError": "Signup Error",
+    "addVehicle": "Add Vehicle",
+    "firtVehicleDesc": "You need to add one vehicle at least to track fuel expenses.",
+    "selectedVehicleType": "Selected Vehicle Type: ",
+    "vehicleName": "Vehicle Name",
+    "vehicleNameValid": "Please give a name your vehicle like model, brand etc.",
+    "vehicleId": "Vehicle Id",
+    "vehicleIdValid": "Enter a unique id for your vehicle, like plate ID.",
+    "fuelBrand": "Fuel Brand",
+    "fuelBrandValid": "Enter your preferred fuel brand.",
+    "addVehicleError": "Add Vehicle Error",
+    "done": "Done",
+    "editVehicle": "Edit Vehicle",
+    "save": "Save",
+    "vehicleDetails": "Vehicle Details",
+    "fuelCount": "Fuel Count",
+    "totalSpent": "Total Spent",
+    "edit": "Edit",
+    "deleteVehicle": "Delete Vehicle",
+    "deleteDesc": "You can delete your vehicle with all expenses or just the vehicle.",
+    "deleteJustVehicle": "Delete just vehicle",
+    "deleteWithExpenses": "Delete with expenses",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "myVehicle": "My Vehicles",
+    "vehicleAddWithSuccess": "Vehicle was successfully added.",
+    "vehicleAddWithError": "Vehicle could not be added. Try again later.",
+    "vehicleDeleteWithSuccess": "Vehicle was successfully deleted.",
+    "vehicleDeleteWithError": "Vehicle could not be deleted. Try again later.",
+    "emptyVehicle": "There is no vehicle here.\nYou can add with add button on top bar",
+    "account": "Account",
+    "deleteData": "Delete Data",
+    "deleteDataDesc": "Delete all vehicles and fuel expenses",
+    "deleteDataConfirmation": "This operation can not be returned.\nAre you sure?",
+    "yesDelete": "Yes, Delete",
+    "deleteAccount": "Delete Account",
+    "deleteWithAllData": "Delete account with all data",
+    "exportData": "Export Data",
+    "enterNewEmailAdress": "Enter new email address",
+    "emailAdress": "Email adress",
+    "exportDesc1": "Your data will send to email address.",
+    "exportDesc2": "Fuel expenses will be .cvs file.",
+    "exportDesc3": "Receipt photos will be inside .zip file.",
+    "exportDesc4": "These files are in email's attachments",
+    "success": "Success",
+    "exportConfirmation": "Your data was sent successfully. Check your email.",
+    "checkEmail": "Check Email Adress",
+    "checkEmailMessage1": "Your entered email address is in an invalid format.",
+    "checkEmailMessage2": "The email address field can not be empty.",
+    "export": "Export",
+    "statistics": "Statistics",
+    "general": "General",
+    "vehicleCount": "Vehicle Count",
+    "fuelExpense": "Fuel Expense Count",
+    "totalExpenseAmount": "Total Expenses Amount",
+    "byVehicle": "By vehicle",
+    "fuelBrandInText": "fuel brand:",
+    "totalExpense": "Total Expense",
+    "addPhoto": "Add photo",
+    "selectFromGallery": "Select from gallery",
+    "takePhoto": "Take a photo",
+    "receiptPhotoNotFound": "Receipt photo was not found.",
+    "didNotAddReceiptPhoto": "You did not add a receipt photo.",
+    "continueWithoutPhoto": "Continue without receipt photo.",
+    "turnBackReceipt": "Turn back and add receipt photo",
+    "enterFuelExpense": "Please enter fuel expense amount.",
+    "oneVehicleError": "You have one vehicle to add fuel.\nIf you want to add a new vehicle, go to 'My Vehicles' and add a vehicle.",
+    "goToVehicle": "Go to My Vehicles",
+    "receiptPhoto": "Receipt Photo",
+    "remove": "Remove",
+    "fuelDetails": "Fuel Details",
+    "vehicle": "Vehicle",
+    "photoNotFound": "Receipt photo was not found.",
+    "searchFuels": "Search Fuels",
+    "searchHint": "Search by vehicle name or id",
+    "noFuelWasFound": "No fuel was found.",
+    "selectVehicle": "Select Vehicle",
+    "logout": "Logout",
+    "appVersion": "App Version",
+    "noInternet": "No Internet",
+    "noInternetDesc": "Please check your internet connection.",
+    "invalidEmail": "Your email address appears to be malformed.",
+    "invalidLoginCredentials": "Wrong password or email.\nPlease check it and try again.",
+    "userNotFound": "User with this email doesn't exist.",
+    "emailAlreadyExists":"The email has already been registered. Please login or reset your password.",
+    "weakPassword": "Your password is weak. It needs to be min 6 characters.",
+    "appleLoginErrorResult": "Continue with Apple process could not be completed.",
+    "googleLoginErrorResult": "Continue with Google process could not be completed.",
+    "defaultResult": "An undefined Error happened.",
+    "car": "Car",
+    "motorcycle": "Motorcycle",
+    "truck": "Truck",
+    "agriculture": "Agriculture"
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+
+  
+
+
+
+
+
+
+}
